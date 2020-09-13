@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "name1",
+        "surname":"surname1",
+        "imageSrc": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnogivruki.ua%2Fdefault-user-image%2F&psig=AOvVaw1FsCBfpfuvKVxCzDVaXMF1&ust=1600100869225000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjSoLTG5usCFQAAAAAdAAAAABAD"
+    },
+    {
+        "id": 2,
+        "name": "name2",
+        "surname":"surname2",
+        "imageSrc": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnogivruki.ua%2Fdefault-user-image%2F&psig=AOvVaw1FsCBfpfuvKVxCzDVaXMF1&ust=1600100869225000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjSoLTG5usCFQAAAAAdAAAAABAD"
+    },
+    {
+        "id": 3,
+        "name": "name3",
+        "surname":"surname3",
+        "imageSrc": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnogivruki.ua%2Fdefault-user-image%2F&psig=AOvVaw1FsCBfpfuvKVxCzDVaXMF1&ust=1600100869225000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjSoLTG5usCFQAAAAAdAAAAABAD"
+    },
+    {
+        "id": 4,
+        "name": "name4",
+        "surname":"surname4",
+        "imageSrc": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnogivruki.ua%2Fdefault-user-image%2F&psig=AOvVaw1FsCBfpfuvKVxCzDVaXMF1&ust=1600100869225000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjSoLTG5usCFQAAAAAdAAAAABAD"
+    }
+]
